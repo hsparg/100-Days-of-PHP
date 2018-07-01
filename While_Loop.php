@@ -15,3 +15,11 @@ while ($i < 10) {
 		break; 
 	}
 }
+
+/* 	while Loop
+ *
+ *   while(condition) {
+ * 		// repeat something while the condition is true 
+ *   }
+ *
+ */
