@@ -12,6 +12,7 @@ foreach($tz_idents as $zone) {
 
 <hr />
 
+// We ask for what timezone correlates with Easten Standard Time
 <?php
 $tz_abbr = 'EST';
 $tz_name = timezone_name_from_abbr($tz_abbr);
